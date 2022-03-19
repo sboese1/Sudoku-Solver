@@ -1,1 +1,1 @@
-# Sudoku-Solver
+Solves sudoku puzzles using recursion
